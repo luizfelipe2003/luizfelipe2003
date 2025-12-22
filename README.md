@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software | Desenvolvedor Fullstack`**
 
-Sou Luiz Felipe Ferraz, estudante do último semestre de Engenharia de Software pela Universidade Católica de Brasília, com grande interesse em aprender, construir soluções e evoluir como profissional de tecnologia. 
+Sou Luiz Felipe Ferraz, estudante do último semestre de Engenharia de Software pela Universidade Católica de Brasília, em constante aprendizado, focado em construir soluções e evoluir como profissional de tecnologia. 
 
 <p align="left">
     <a href="https://github.com/luizfelipe2003?tab=repositories&sort=stargazers">
