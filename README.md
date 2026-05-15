@@ -2,7 +2,7 @@
 
 **`Engenheiro de Software | Desenvolvedor Fullstack`**
 
-Pra cima! 🚀
+
 
 <p align="left">
     <a href="https://github.com/luizfelipe2003?tab=repositories&sort=stargazers">
