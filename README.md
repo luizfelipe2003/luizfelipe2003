@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Luiz Felipe
+#  Luiz Felipe
 
 **`Engenheiro de Software | Desenvolvedor Fullstack`**
 
