@@ -1,7 +1,6 @@
 #  Luiz Felipe
 
-**`Engenheiro de Software | Desenvolvedor Fullstack`**
-
+**`Engenheiro de Software | Desenvolvedor Backend`**
 
 
 <p align="left">
