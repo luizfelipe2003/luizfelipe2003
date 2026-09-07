@@ -5,7 +5,7 @@
 Software Engineer focused on scalable architectures and robust applications. I turn creative ideas into well-engineered solutions through technology.
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 
 
 <img 
     align="left" 
