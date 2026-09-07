@@ -1,22 +1,9 @@
 # Luiz Felipe
 
-**`Engenheiro de Software | Desenvolvedor Backend`**
+**`Software Engineer`**
 
-Estudante de Engenharia de Software, com foco em desenvolvimento backend utilizando Java e ecossistema Spring.
+Software Engineer focused on scalable architectures and robust applications. I turn creative ideas into well-engineered solutions through technology.
 
-Desenvolvendo aplicações robustas, escaláveis e arquiteturalmente bem estruturadas, aplicando boas práticas de engenharia de software, integração de sistemas e construção de APIs modernas.
-
-Atualmente atuando com:
-- APIs REST
-- Spring Boot
-- JPA/Hibernate
-- PostgreSQL
-- Docker
-- AWS
-- COBOL
-- Integração de sistemas
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
